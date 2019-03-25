@@ -1,0 +1,22 @@
+{
+  "name": "webrtc_testsignalingserver",
+  "version": "1.0.0",
+  "description": "signaling sever of https://github.com/TANAKA-Makoto/webRTC_testChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TANAKA-Makoto/webRTC_testSignalingServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TANAKA-Makoto/webRTC_testSignalingServer/issues"
+  },
+  "homepage": "https://github.com/TANAKA-Makoto/webRTC_testSignalingServer#readme",
+  "dependencies": {
+    "ws": "^6.2.0"
+  }
+}
